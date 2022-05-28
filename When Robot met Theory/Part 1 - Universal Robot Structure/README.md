@@ -35,7 +35,7 @@ Now, it's time to fire up a text editor and write a URDF of your own. Go through
 - [Create your own URDF file](http://wiki.ros.org/urdf/Tutorials/Create%20your%20own%20urdf%20file)
 - [Building Visual Robot Model](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
 
-The various tags and attributes might be confusing at the first sight such as the relative position and orientation of joints and links To get an in depth description of various tags and attributes, we recommend you to go through the following links once:
+The various tags and attributes might be confusing at the first sight such as the relative position and orientation of joints and links. To get an in-depth description of various tags and attributes, we recommend you to go through the following links once:
 - [Links](http://wiki.ros.org/urdf/XML/link)
 - [Joints](http://wiki.ros.org/urdf/XML/joint)
 
@@ -44,7 +44,7 @@ If you want to load and visualise your URDF, just click on the following link, p
 
 **Note**: The visual tag is only for the visual properties of the links. If you want to enable collision properties for the visible portion, you need to add a collision tag and add same attributes and values as you added in the visual tag. Otherwise, your link will _seem_ to be at one place and will be having _collisions_ at some other unknown place :)
 
-You might have some trouble debugging the URDF file. The tags and syntax might temp you to scratch your head. Hopefully, linux users have a work around this problem. Open your terminal and type the following command:
+You might have some trouble debugging the URDF file. The tags and syntax might tempt you to scratch your head. Hopefully, linux users have a work around this problem. Open your terminal and type the following command:
 
     $ sudo apt-get install liburdfdom-tools
 
