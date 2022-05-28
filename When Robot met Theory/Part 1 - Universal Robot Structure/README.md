@@ -69,7 +69,7 @@ Create a URDF of a humanoid using simple shapes like sphere, cylinder etc. Don't
   <img width=500 src="https://i.ytimg.com/vi/PsE48F39Kkw/sddefault.jpg">
   </p>
   
-Task 1 is mandatory. For both of the tasks, you need to create their URDFs, load it in the simulator mentioned above, make a short video of the simulation and upload it on the following link:
+Although you don't need to worry about the motion, but the joints should work as expected. You can slide the trackbars given on the top right corner of the URDF visualiser. Thus, you can move various joints manually to see if they are working. <br><br>Task 1 is mandatory. For both of the tasks, you need to create their URDFs, load it in the simulator mentioned above, make a short video of the simulation and upload it on the following link:
 - [Task Submission](https://forms.gle/BcyPStBBSEmJAp7E8)
 
 With this, you are good to go to the Part 2!
