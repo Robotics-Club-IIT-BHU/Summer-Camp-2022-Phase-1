@@ -75,3 +75,6 @@ Set gravity to -g. Spawn 8 spheres (sphere.urdf is given) at 8 positions at some
 
 
 https://user-images.githubusercontent.com/77807055/170809439-1bffc9c6-92e3-4e20-b0d5-f5d119673a67.mp4
+
+Submit a short video of the simulation along with the python code on the following link: <br>
+[Submit here](https://forms.gle/q9KxKR3s7L4Z9nVX7)
