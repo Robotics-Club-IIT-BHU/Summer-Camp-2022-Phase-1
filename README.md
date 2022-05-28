@@ -22,7 +22,7 @@
   <img width=500 src="https://media0.giphy.com/media/oVak1aFYp9MAwIF3Qp/200w.webp?cid=ecf05e47dw6qb2uzmufi0c6cgvmonabtsluzbhbf1qfoi1y1&rid=200w.webp&ct=g">
 </p>
 
-#### Feel this is going one way?? Don't worry, you can put up queries on the discord server, or do general chit-chat there. Your seniors (i.e., us 😌) will be available there. Discussing with peers, how they are progressing, also helps to do the task. The server surely provides this utility.
+#### Feel this is going one way?? Don't worry, you can put up queries on the discord server, or do general chit-chat there. Your seniors (i.e., us 😌) will be available there. Discussing with peers, how they are progressing, also helps to do the task. The server surely does the job.
 
 #### We recommend you to use Linux Operating System throughout the camp. You can Dual Boot you PC with Ubuntu 20.04.
 <br>
