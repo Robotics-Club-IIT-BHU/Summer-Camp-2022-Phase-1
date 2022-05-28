@@ -6,7 +6,7 @@ So, a robot is basically any machine that, along with doing some computations, c
   <img width=500 src="https://user-images.githubusercontent.com/77807055/170580213-caacaeb6-aaac-48c5-bc3a-e908b9cb8afc.png">
 </p>
 
-In the above example, Link 1 is the base link. Its child links are Link 2 and Link 3 that are connected to the base link using Joint 1 and Joint 2 respectively. Link 3 is further to Link 4 using Joint 3. Link 4 is the child link of Link 3. Link 3 is the parent link of Link 4.
+In the above example, Link 1 is the base link. Its child links are Link 2 and Link 3 that are connected to the base link using Joint 1 and Joint 2 respectively. Link 3 is further connected to Link 4 using Joint 3. Link 4 is the child link of Link 3. Link 3 is the parent link of Link 4.
 
 **Note**: A link can have multiple child links, but only one parent link. A Base Link doesn't have any parent link.
 
