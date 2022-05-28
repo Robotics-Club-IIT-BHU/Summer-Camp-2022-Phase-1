@@ -79,5 +79,5 @@
 #### Cool! So, how's the josh? Tap on the appropriate answer below:
 <br>
 <p align="center">
-  <a href="./Inauguration of Robotics"><img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/02/Big-Hero-6-Baymax.jpg?q=50&fit=crop&w=767&h=450&dpr=1.5">
+  <a href="./When Robotics met Theory"><img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/02/Big-Hero-6-Baymax.jpg?q=50&fit=crop&w=767&h=450&dpr=1.5">
     </p>
