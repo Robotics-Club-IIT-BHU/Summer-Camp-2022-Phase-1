@@ -13,4 +13,4 @@ Meet you in next part, till then...
   </p>
 
 #### Click to go to the next part..
-👉[Here!! Here!!](./../../Masters in PyBullet/PyBullet - Ek Simulator.md)👈
+👉[Here!! Here!!](https://github.com/Robotics-Club-IIT-BHU/Summer-Camp-2022-Phase-1/blob/main/Masters%20in%20PyBullet/PyBullet%20-%20Ek%20Simulator.md)👈
