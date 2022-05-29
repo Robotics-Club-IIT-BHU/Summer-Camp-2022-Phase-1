@@ -71,7 +71,7 @@ optional  | physicsClientId | int | if you are connected to multiple servers, yo
 11.**disconnect**: You can disconnect from a physics server. A 'DIRECT' or 'GUI' physics server will shutdown. A separate (out-of-process) physics server will keep on running. See also 'resetSimulation' to remove all items.
 
 # Task for the part:
-Set gravity to -g. Spawn 8 spheres (sphere.urdf is given) at 8 positions at some height say, 10. When they fall down, respawn them at some new locations at same height, such that some beautiful pattern is created as follows:
+Set gravity to -g. Spawn 8 spheres (sphere.urdf is given, make sure to give its relative path in the python file) at 8 positions at some height say, 10. When they fall down, respawn them at some new locations at same height, such that some beautiful pattern is created as follows:
 
 
 https://user-images.githubusercontent.com/77807055/170809439-1bffc9c6-92e3-4e20-b0d5-f5d119673a67.mp4
