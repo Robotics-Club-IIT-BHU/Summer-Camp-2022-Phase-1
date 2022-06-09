@@ -32,3 +32,4 @@ The functions that enables you to design such constraints are listed below:
 Use the [sphere.urdf](sphere.urdf) as the bobs of the pendulums and use the in-built cube urdf as pins.The pins should be constrained and held **static** in a single point in space and the bob is to be kept at a constant length,suspended from the pin.The simulation should start with a **external force acting on the COM** of one of the bobs in the extreme positon.
 
 **Note:** Its upto you to decide the number of spheres, suspension length, point of suspension,magnitude of initial force,etc.
+Submit the code and video of the simulation [here](https://forms.gle/yupgvyz1eXmNHhxr6).
