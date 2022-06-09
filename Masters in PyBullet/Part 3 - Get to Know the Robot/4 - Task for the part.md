@@ -1,5 +1,6 @@
 # Task for the part
 
+**Task 1**
 - For this part, you need to create a URDF similar to the one in the figure.
 - The URDF is a 2R planar robot mounted on a revolving disc at a location near its circumference.
 - Implement Inverse Kinematics for this system.
@@ -24,3 +25,7 @@ Before moving on to the next task, It can get fairly complicated for building a 
 Well, you guessed it right !!
 
 Use the inbuilt function to complete the above task.
+
+You need to create the URDF file required to complete the above tasks on your own (note that same URDF will work for both the tasks). Submit the URDF along with the .py files for both the tasks in the following link:
+Also submit short videos of the working simulation on the link.
+- [Here](https://forms.gle/ZRxjo8QGA48pu4UZ8)
