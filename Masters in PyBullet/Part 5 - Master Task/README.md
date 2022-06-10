@@ -43,3 +43,9 @@ Try to make the husky follow a path roughly similar to this 👇
   
 Submit your python file, door.urdf and a video of the simulation on the following link:
 - [Here!! Here!!](https://forms.gle/XhPvdYha7G98Ngr49)  
+
+Hurray!! We are excited to meet you in the specializations...
+<br>
+<p align="center">
+          <img width=500 src="https://media2.giphy.com/media/9sPNTh8kRvR3q/giphy.webp?cid=ecf05e47w6p76r1oadfhb7ny0npgfpto2crx2ofmd78d7tjf&rid=giphy.webp&ct=g">
+  </p>
