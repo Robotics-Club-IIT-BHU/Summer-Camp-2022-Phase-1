@@ -9,7 +9,7 @@ Create a door.urdf file, and load various doors in the pybullet world. Constrain
   <br><i>Top View: These red lines are the doors, load the doors in the world roughly at the above mentioned positions</i>
 </p>
 
-Next, you have to load pairs of wedges in front of the doors. For that, [the URDF of the wedge](wedge.urdf) is given that makes use of [the ramp.stl](ramp.stl). Download both of these files in the same directory as your python file. The pair should be such that, both the wedges in it should be facing opposite to each other. Now load a husky at the following position...
+Next, you have to load pairs of wedges in front of the doors. For that, [the URDF of the wedge](wedge.urdf) is given that makes use of [the ramp.stl](ramp2.stl). Download both of these files in the same directory as your python file. The pair should be such that, both the wedges in it should be facing opposite to each other. Now load a husky at the following position...
 <br>
 <p align="center">
   <img width=500 src="https://user-images.githubusercontent.com/77807055/173032425-bc8c0726-1dbe-44e1-835a-2cf563ac0390.png">
