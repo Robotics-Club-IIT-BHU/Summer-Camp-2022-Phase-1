@@ -28,8 +28,12 @@ Here, I have demonstrated the passing of the husky through one pair of doors. Yo
 <br>
 <p align="center">
   <img width=500 src="sample.gif">
-  <img width-500 src="husky_door_system.gif">
   </p>
+  
+<br>
+<p align="center">
+  <img width=500 src="husky_door_system.gif">
+</p>
   
 Try to make the husky follow a path roughly similar to this 👇
 <br>
